@@ -58,6 +58,17 @@ You need a *Bachelor’s degree in computer science*, software engineering or a 
 ### Entry Level Position Job
 * Salary:$68k - $92k
 * City: Toronto
-* Actual job description
+#### Actual job description
   * Contribute to the complete development lifecycle of our products including: prototyping, development, testing, and deployment
   * Identify issues, troubleshoot bugs and write high-quality engineering documentation
+  * Take responsibility for continuous improvements in the coding and development of your own coding practices
+  * Work closely with team members to deliver products within an agile work environment 
+#### Additonal Skills
+  *Bachelors or Masters degree in Computer Science or equivalent preferred; demonstrable understanding of systems, algorithms, and software design required
+  * A self-starter, willing to learn new technologies and continuously striving to improve their own coding practices
+  * Excellent verbal and written communication skills
+  * Previous work experience, especially in an agile environment
+  *Experience working with and analyzing big data (especially genomics data) in a distributed environment would be considered an asset
+  * Knowledge of cloud computing principles or direct experience with a cloud platform would be considered an asset
+  * Experience with genetics or bioinformatics is a bonus 
+  
