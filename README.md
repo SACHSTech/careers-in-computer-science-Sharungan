@@ -113,10 +113,28 @@ Design, develop, and deploy complex features including RESTful APIs, API integra
     * Able to work in a team as well as independently
     * Must possess excellent communication skills
 
+#Citations
+“CollegeGrad.” Jobs, Career, Salary and Education Information, [collegegrad.com/careers/software-developers.](https://collegegrad.com/careers/software-developers)
 
+“Computer Science Admission Requirements for Ontario High School Students.” Undergraduate Programs, [uwaterloo.ca/future-students/admissions/admission-requirements/computer-science/canada/ontario/.](https://uwaterloo.ca/future-students/admissions/admission-requirements/computer-science/canada/ontario/) 
 
+“Computer Science.” The Undergraduate Calendar, ugradcalendar.[uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1.](http://ugradcalendar.uwaterloo.ca/page/MATH-Bachelor-of-Computer-Science-1) 
 
+“Co-Op and Regular.” Cheriton School of Computer Science, 11 Aug. 2020, [cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular.](https://cs.uwaterloo.ca/future-undergraduate-students/co-op-and-regular#:~:text=Complete%20your%20studies%20in%20four,or%20develop%20your%20own%20ideas.) 
 
+[https://uwaterloo.ca/future-students/programs/computer-science](https://uwaterloo.ca/future-students/programs/computer-science)
 
+“Software Developer: Educational Requirements & Career Info.” www.Study.com, [https://study.com/articles/Software_Developer_Educational_Requirements_for_a_Computer_Software_Engineer.html.](https://study.com/articles/Software_Developer_Educational_Requirements_for_a_Computer_Software_Engineer.html) 
 
+“Software Developers : Occupational Outlook Handbook.” U.S. Bureau of Labor Statistics, U.S. Bureau of Labor Statistics, 1 Sept. 2020, [www.bls.gov/ooh/computer-and-information-technology/software-developers.htm.](https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm)
 
+“Software Developer Salary in Canada.” PayScale, [www.payscale.com/research/CA/Job=Software_Developer/Salary.](https://www.payscale.com/research/CA/Job=Software_Developer/Salary)
+
+“Software Engineer Skills: Definition and Examples.” Indeed Career Guide, [www.indeed.com/career-advice/career-development/software-engineer-skills.](https://www.indeed.com/career-advice/career-development/software-engineer-skills) 
+
+Workopolis, [www.workopolis.com/jobsearch/viewjob/GWmb3sJlzunBS-Cxwbc4wfaoH3oj8qMwhcODXaKqOL6KBbEyI38exQ?ak=software+developer.](https://www.workopolis.com/jobsearch/viewjob/GWmb3sJlzunBS-Cxwbc4wfaoH3oj8qMwhcODXaKqOL6KBbEyI38exQ?ak=software+developer) 
+
+Workopolis, [www.workopolis.com/jobsearch/viewjob/ReXEF9taqCcDBTchLi-lZVvHJGG77NlT2yeBC4Kxwk46DlwXsiM5Yw?ak=software+developer.](https://www.workopolis.com/jobsearch/viewjob/ReXEF9taqCcDBTchLi-lZVvHJGG77NlT2yeBC4Kxwk46DlwXsiM5Yw?ak=software+developer) 
+
+Workopolis, [www.workopolis.com/jobsearch/viewjob/XTMKLPnTorSpM_aGg34o9QEva9fIxf8Mt3JRgaiIQIibWj6vq-us7g?ak=software+developer.](https://www.workopolis.com/jobsearch/viewjob/XTMKLPnTorSpM_aGg34o9QEva9fIxf8Mt3JRgaiIQIibWj6vq-us7g?ak=software+developer)
+ 
